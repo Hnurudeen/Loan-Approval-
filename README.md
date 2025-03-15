@@ -1,9 +1,14 @@
 # Predicting Loan Approval with Backpropagation Neural Networks (BPNN) 🏦🧠
 
+##Data Source
+The data was gotten from Kaggle
+-[Download Here](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset/code)
 
 
 ## 📝 Description  
-This project predicts loan approval status (Approved/Rejected) using **Backpropagation Neural Networks (BPNN)** and **Support Vector Machines (SVM)**. Key highlights:  
+This project predicts loan approval status (Approved/Rejected) using **Backpropagation Neural Networks (BPNN)** and **Support Vector Machines (SVM)**. 
+
+Key highlights:  
 - **97.19% accuracy** with BPNN vs. 93.44% with SVM.  
 - Automated feature engineering and hyperparameter tuning.  
 - Critical insights into factors like `luxury_assets_value` and `cibil_score`.  
