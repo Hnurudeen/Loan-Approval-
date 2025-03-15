@@ -12,7 +12,7 @@ Key highlights:
 - **97.19% accuracy** with BPNN vs. 93.44% with SVM.  
 - Automated feature engineering and hyperparameter tuning.  
 - Critical insights into factors like `luxury_assets_value` and `cibil_score`.  
-
+**Where `cibil_score` = Credit score
 ---
 
 Confusion Matrix
