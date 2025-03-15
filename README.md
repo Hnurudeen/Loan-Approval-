@@ -1,4 +1,4 @@
-# Predicting Loan Approval with Backpropagation Neural Networks (BPNN) 🏦🧠
+# Predicting Loan Approval with Backpropagation Neural Networks (BPNN) 🏦
 
 ##Data Source
 The data was gotten from Kaggle
